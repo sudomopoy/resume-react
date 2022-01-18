@@ -1,8 +1,15 @@
 .fullpage {
-    height: 90vh;
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
-    justify-content: space-around;
-    padding: 50px;
-  }
+  height: 90vh;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px;
+  position: relative;
+}
+
+.fullpage .background-picture {
+  position: absolute;
+  opacity: 0.75;
+  filter: blur(5px);
+}

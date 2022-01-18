@@ -24,7 +24,7 @@ export default class TitlesAndIcons extends Component {
     render() {
         return [
             <Element name="homeSection" className="element" />,
-            <Fullpage className="first" id="snow-target"
+            <Fullpage bg={true} className="first" id="snow-target"
                 style={{
                     backgroundColor: `${data.colorSets[this.props.colorSet].bgColor}`
                 }}>
