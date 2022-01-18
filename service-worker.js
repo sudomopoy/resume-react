@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mohsenpoureiny/resume-react/precache-manifest.48a7d5f28db22b0cd4fd39e168f65e75.js"
+  "/resume-react/precache-manifest.dc7f1f73568d7d629f5de76686ba0e44.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Mohsenpoureiny/resume-react/index.html", {
+workbox.routing.registerNavigationRoute("/resume-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

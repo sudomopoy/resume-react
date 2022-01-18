@@ -1,14 +1,14 @@
 {
-  "main.css": "/Mohsenpoureiny/resume-react/static/css/main.7c7e05e2.chunk.css",
-  "main.js": "/Mohsenpoureiny/resume-react/static/js/main.d972d6dc.chunk.js",
-  "main.js.map": "/Mohsenpoureiny/resume-react/static/js/main.d972d6dc.chunk.js.map",
-  "static/js/1.3a39d6df.chunk.js": "/Mohsenpoureiny/resume-react/static/js/1.3a39d6df.chunk.js",
-  "static/js/1.3a39d6df.chunk.js.map": "/Mohsenpoureiny/resume-react/static/js/1.3a39d6df.chunk.js.map",
-  "runtime~main.js": "/Mohsenpoureiny/resume-react/static/js/runtime~main.1b4d5c26.js",
-  "runtime~main.js.map": "/Mohsenpoureiny/resume-react/static/js/runtime~main.1b4d5c26.js.map",
-  "static/media/bg.jpg": "/Mohsenpoureiny/resume-react/static/media/bg.efdba046.jpg",
-  "static/css/main.7c7e05e2.chunk.css.map": "/Mohsenpoureiny/resume-react/static/css/main.7c7e05e2.chunk.css.map",
-  "index.html": "/Mohsenpoureiny/resume-react/index.html",
-  "precache-manifest.48a7d5f28db22b0cd4fd39e168f65e75.js": "/Mohsenpoureiny/resume-react/precache-manifest.48a7d5f28db22b0cd4fd39e168f65e75.js",
-  "service-worker.js": "/Mohsenpoureiny/resume-react/service-worker.js"
+  "main.css": "/resume-react/static/css/main.7c7e05e2.chunk.css",
+  "main.js": "/resume-react/static/js/main.ad54a503.chunk.js",
+  "main.js.map": "/resume-react/static/js/main.ad54a503.chunk.js.map",
+  "static/js/1.3a39d6df.chunk.js": "/resume-react/static/js/1.3a39d6df.chunk.js",
+  "static/js/1.3a39d6df.chunk.js.map": "/resume-react/static/js/1.3a39d6df.chunk.js.map",
+  "runtime~main.js": "/resume-react/static/js/runtime~main.ec256162.js",
+  "runtime~main.js.map": "/resume-react/static/js/runtime~main.ec256162.js.map",
+  "static/media/bg.jpg": "/resume-react/static/media/bg.efdba046.jpg",
+  "static/css/main.7c7e05e2.chunk.css.map": "/resume-react/static/css/main.7c7e05e2.chunk.css.map",
+  "index.html": "/resume-react/index.html",
+  "precache-manifest.dc7f1f73568d7d629f5de76686ba0e44.js": "/resume-react/precache-manifest.dc7f1f73568d7d629f5de76686ba0e44.js",
+  "service-worker.js": "/resume-react/service-worker.js"
 }
