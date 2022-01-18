@@ -1,0 +1,37 @@
+.card {
+    flex-grow: 1;
+    min-width: 150px;
+    max-width: 30%;
+    height: 300px;
+    margin: 20px;
+    flex-basis: 20%;
+    border: none;
+    border-color: aliceblue;
+    box-sizing: border-box;
+    border-radius: 50px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    overflow: hidden;
+    transition: all ease-in-out 0.5s;
+    cursor: pointer;
+}
+
+.card:hover {
+    border: solid 16px rgba(255, 255, 255, 0.787);
+}
+
+.card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.image-wrapper {
+    flex-grow: 1;
+    margin: 5px;
+}
+
+.skill-title-wrapper>h4 {
+    font-size: 2em;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}

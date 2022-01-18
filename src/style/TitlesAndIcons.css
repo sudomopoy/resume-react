@@ -1,0 +1,49 @@
+.first {
+    color: #eef;
+    position: relative;
+}
+
+.first .title {
+    font-size: 4em;
+    font-weight: 800;
+}
+
+.first .lead {
+    font-size: 2em;
+    font-weight: 300;
+    color: #db6;
+}
+
+.first .page-body {
+    flex-grow: 1;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.social-icon-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.social-icon {
+    height: 40px !important;
+    width: 40px !important;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.social-icon:hover .social-svg-mask{
+    fill: #fff !important;
+}
+
+#snow-target {
+    overflow: hidden;
+}
+
+
+
+

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: 'Dosis' , sans-serif;
+}
+
+.particles {
+  position: fixed;
+  top: 0px;
+  height: 100vh;
+  width: 100vw;
+}
+
+hr {
+  width: 300px;
+  border: solid 1px rgba(10, 10, 10, 0.3);
+}
+
+

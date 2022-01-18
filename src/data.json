@@ -1,0 +1,137 @@
+{
+  "title": "Mohsen Poureiny",
+  "subtitle": "front-end developer",
+  "links": {
+    "github": "https://github.com/MohsenPoureiny",
+    "website": "https://mohsenpoureiny.info/",
+    "linkedin": "https://www.linkedin.com/in/MohsenPoureiny/",
+    "twitter": "https://twitter.com/MohsenPoureiny"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Hi! I am Mohsen Poureiny Designer and Developer of Web and Mobile Applications."
+        },
+        {
+          "type": "p",
+          "content": "Student of Electrical Engineering at Sahand University of Technology, Tabriz History of activity in the field of Programming and Computer since 2014"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react_js.png",
+            "title": "React",
+            "level": 4,
+            "color": "#61D9FA"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/javascript.png",
+            "title": "Javascript",
+            "color": "#fd6"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/android.png",
+            "title": "Android",
+            "color": "#A3C53D"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/asp_net.png",
+            "title": "Asp.net",
+            "color": "#0A78D5"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/node_js.png",
+            "title": "nodejs",
+            "color": "#81CC30"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html5.png",
+            "title": "Html",
+            "color": "#EE642B"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/angularjs.png",
+            "title": "Angular",
+            "color": "#DC062F"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/bootstrap.png",
+            "title": "Bootstrap",
+            "color": "#7D53A5"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down.png",
+    "magicWand": "images/magic-wand.png",
+    "magicWandHover": "images/magic-wand-hover.png"
+  },
+  "colorSets": [
+    {
+      "bgColor": "#4C5270",
+      "titleColor": "#fff",
+      "subTitleColor": "#db6",
+      "snowColor": "rgba(100,150,255,0.5)",
+      "iconColor": "#ddd"
+    },
+    {
+      "bgColor": "#F652A0",
+      "titleColor": "#000",
+      "subTitleColor": "#4C5270",
+      "snowColor": "rgb(92,197,158,0.5)",
+      "iconColor": "#1a2b42"
+    },
+    {
+      "bgColor": "#15B5B0",
+      "titleColor": "#F9BDC0",
+      "subTitleColor": "#FBE698",
+      "snowColor": "rgb(66,0,92,0.5)",
+      "iconColor": "#6DECE0"
+    },
+    {
+      "bgColor": "#BD97CB",
+      "titleColor": "#E56997",
+      "subTitleColor": "#FBC740",
+      "snowColor": "rgb(250, 250, 254,0.5)",
+      "iconColor": "#66D2D6"
+    },
+    {
+      "bgColor": "#C26DBC",
+      "titleColor": "#EEB5EB",
+      "subTitleColor": "#3CACAE",
+      "snowColor": "rgba(255,255,120,0.5)",
+      "iconColor": "#C8F4F9"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.second {
+    background-image: -webkit-linear-gradient(45deg, #FBE5C8, #FFC2C7, #8FDDE7)
+}
+
+.second .title {
+    font-size: 3em;
+    font-weight: 300
+}
+
+.second .content {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.second .page-body {
+    flex-grow: 1;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}

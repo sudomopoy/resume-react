@@ -1,0 +1,28 @@
+.third {
+    background-color: #fafafa;
+    height: fit-content;
+}
+
+.third .title {
+    font-size: 3em;
+    font-weight: 300
+}
+
+.third {
+    justify-content: flex-start;
+    align-content: stretch;
+}
+
+
+.card-wrapper {
+    align-self: stretch;
+    width: inherit;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+
+
+
